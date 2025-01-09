@@ -59,3 +59,8 @@
     ![image.png](image%2013.png)
     - RUN SWAT+ 結果
     ![image.png](image%2014.png)
+
+### 操作注意事項
+- 匯入[臺灣河川河道資料](https://data.gov.tw/dataset/25781)做測試
+    - 問題：not a line shapefile，臺灣河川資料數據格式無法提供QSWAT作使用。
+    ![image.png](image%2015.png)
